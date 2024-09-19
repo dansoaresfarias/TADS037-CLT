@@ -1,5 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+    margin-left: 5%;
 }
 
 table {
@@ -25,8 +27,21 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 
+address {
+    margin-left: 5%;
+}
+
+iframe {
+    width: 100%;
+    height: 360px;
+}
+
 #center {
     text-align: center;
+}
+
+#contato {
+    margin-left: 5%;
 }
 
 #apresentacao {
