@@ -2,18 +2,25 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 90%;
     margin-left: 5%;
+    background-color: #D9D9D9;
+}
+
+img {
+    border-radius: 10%;
 }
 
 table {
     font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 900;
     border-collapse: collapse;
     width: 80%;
     margin-left: 10%;
 }
 
 td {
-    border: 1px solid #dddddd;
-    padding: 8px;
+    border: 1px dashed #dddddd;
+    padding: 1px;
     text-align: justify;
 }
 
@@ -24,7 +31,7 @@ th {
 }
 
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #A68953;
 }
 
 address {
@@ -53,6 +60,18 @@ iframe {
     height: 360px;
 }
 
+h1 {
+    font-size: 44px;
+}
+
+footer {
+    font-size: xx-small;
+}
+
+ul {
+    list-style-type: square;
+}
+
 #center {
     text-align: center;
 }
@@ -63,4 +82,12 @@ iframe {
 
 #apresentacao {
     text-align: center;
+}
+
+.bcgTop {
+    background-color: #403E3C;
+}
+
+p.justificado{
+    text-align: justify;
 }
