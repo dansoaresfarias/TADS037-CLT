@@ -7,6 +7,11 @@ nav {
     background-color: #16423C;
 }
 
+footer {
+    background-color: #16423C;
+    color: #E9EFEC;
+}
+
 a.menuDanilo {
     color: #E9EFEC;
 }
@@ -23,20 +28,34 @@ a.formacao {
     padding: 20px;
 }
 
-.scrollMenu{
+.scrollMenu {
     scroll-margin-top: 40px;
 }
 
-.bcgColor{
+.bcgColor {
     background-color: #E9EFEC;
 }
 
-.topBcgSobre{
+.topBcgSobre {
     background-color: #16423C;
     width: 8%;
 }
 
-.topBcgFormacao{
+.topBcgFormacao {
     background-color: #16423C;
     width: 26%;
+}
+
+.topBcgExp {
+    background-color: #16423C;
+    width: 28%;
+}
+
+.topBcgEnd {
+    background-color: #16423C;
+    width: 36%;
+}
+
+.tblWidth {
+    width: 20%;
 }
