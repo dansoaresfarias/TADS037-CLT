@@ -1,0 +1,61 @@
+#foto {
+    width: 100%;
+    margin-top: 40px;
+}
+
+nav {
+    background-color: #16423C;
+}
+
+footer {
+    background-color: #16423C;
+    color: #E9EFEC;
+}
+
+a.menuDanilo {
+    color: #E9EFEC;
+}
+
+a.formacao {
+    color: #16423C;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.margin {
+    padding: 20px;
+}
+
+.scrollMenu {
+    scroll-margin-top: 40px;
+}
+
+.bcgColor {
+    background-color: #E9EFEC;
+}
+
+.topBcgSobre {
+    background-color: #16423C;
+    width: 8%;
+}
+
+.topBcgFormacao {
+    background-color: #16423C;
+    width: 26%;
+}
+
+.topBcgExp {
+    background-color: #16423C;
+    width: 28%;
+}
+
+.topBcgEnd {
+    background-color: #16423C;
+    width: 36%;
+}
+
+.tblWidth {
+    width: 20%;
+}
